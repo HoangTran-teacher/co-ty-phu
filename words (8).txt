@@ -1,0 +1,39 @@
+@title Treasure Hunt
+@showtext off
+
+# Unit 1 - Feelings
+👍 | good
+😄 | happy
+🤩 | excited
+😫 | tired
+😴 | sleepy
+😕 | not so good
+ask | How are you? | I'm {w}. And you?
+
+# Unit 2 - Numbers
+numbers | 11 | 100
+age | How old are you? | I'm {n} years old.
+age | How old is {he}? | {He}'s {n} years old.
+
+# Unit 3 - Friends
+👫 | friends
+🏫 | classmates
+👩‍🏫 | teachers
+ask | Who are they? | They are {w}.
+
+# Unit 4 - Body
+🦵 | leg | Touch your leg!
+🦶 | foot / feet | Touch your foot!
+🙂 | face | Touch your face!
+📖 | open | Open your book!
+👆 | touch | -
+do | {v}
+
+# Unit 5 - Hobbies
+🚴 | riding a bike
+🎬 | watching movies
+✉️ | collecting stamps
+🎸 | playing the guitar
+🍳 | cooking meals
+🎂 | baking cakes
+yesno | Do you like {w}? | Yes, I do. | No, I don't. | I like
