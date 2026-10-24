@@ -1,0 +1,53 @@
+@title Treasure Hunt
+@showtext off
+
+# Âm /p/
+🍕 | pizza
+🍝 | pasta
+🍿 | popcorn
+🥧 | pie
+🍐 | pear
+
+# Âm /k/
+🪁 | kite
+🚲 | bike
+🐱 | kitten
+🔑 | key
+🤴 | king
+
+# Âm /s/
+⛵ | sail
+🏖️ | sand
+🌊 | sea
+🦭 | seal
+🧦 | socks
+do | Let's look at the {w}!
+
+# Âm /r/
+🌈 | rainbow
+🏞️ | river
+🛣️ | road
+🐰 | rabbit
+🌹 | rose
+🤖 | robot
+do | Let's look at the {w}!
+ask | What can you see? | I can see {a} {w}.
+
+# Âm /kw/
+❓ | question
+⬜ | square
+📝 | quiz
+👸 | queen
+🛏️ | quilt
+🤫 | quiet
+
+# Mẫu câu - Đang làm gì?
+🪁 | flying a kite
+⚽ | kicking a ball
+🚴 | riding a bike
+🖍️ | colouring a square
+🙋 | answering a question
+✍️ | doing a quiz
+ask | What is he doing? | He's {w}.
+ask | What is she doing? | She's {w}.
+yesno | Is {he} {w}? | Yes, {he} is. | No, {he} isn't. | {name} is
